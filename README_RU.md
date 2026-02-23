@@ -71,6 +71,7 @@
     - [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
 2.  **Установи скрипт**:
+    - [готовое решение](https://greasyfork.org/ru/scripts/567164-csgo-clicker-mod-menu)
     - Создай новый скрипт в Tampermonkey и вставь код из `mode.js`.
     - Опционально: опубликуй/установи через Greasy Fork (если загрузил туда).
 
