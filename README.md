@@ -9,10 +9,11 @@ A powerful, modern, and feature-rich Mod Menu for [CSGO Clicker](https://csgo.mt
 ## 🖼 Screenshots
 
 <p align="center">
-  <img src="img/a.png" width="49%" alt="Mod Menu — main view">
   <img src="img/aa.png" width="49%" alt="Mod Menu — actions & layout">
 </p>
-
+<p align="center">
+  <img src="img/a.png" width="49%" alt="Mod Menu — main view">
+  </p>
 ## 🚀 Features
 
 ### **Player & Stats**
