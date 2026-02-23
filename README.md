@@ -72,6 +72,7 @@ A powerful, modern, and feature-rich Mod Menu for [CSGO Clicker](https://csgo.mt
     - [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
 2.  **Install Script**:
+    - [install](https://greasyfork.org/ru/scripts/567164-csgo-clicker-mod-menu)
     - Create a new script in Tampermonkey and copy-paste the code from `mode.js`.
     - Optional: publish/install via Greasy Fork (if you uploaded it).
 
